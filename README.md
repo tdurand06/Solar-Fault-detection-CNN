@@ -1,6 +1,6 @@
 # Solar-Fault-detection-CNN
 
-This python script is a CNN classification machine learning project. The data contains 16 days of data of a grid-tie photovoltaic plant's operation with both faulty and normal operation. The paper achieved 99.88% accuracy with overfitting likely, and 98.31% accuracy with overfitting preventing methods including L2 regularizationa and neuron dropout, improving on the previous record for the dataset,97.64% accuracy
+This python script is a CNN classification machine learning project. The data contains 16 days of data of a grid-tied photovoltaic plant's operation with both faulty and normal operation. The paper achieved 99.88% accuracy with overfitting likely, and 98.31% accuracy with overfitting preventing methods including L2 regularizationa and neuron dropout, improving on the previous record for the dataset,97.64% accuracy
 
 The faults include:
 
